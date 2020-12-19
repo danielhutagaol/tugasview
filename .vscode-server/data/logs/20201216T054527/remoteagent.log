@@ -1,0 +1,353 @@
+[2020-12-16 05:45:27.945] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-16 05:45:27.945] [remoteagent] [info] Extension host agent started.
+[2020-12-16 05:45:34.808] [remoteagent] [info] [127.0.0.1][dfb19038][ManagementConnection] New connection established.
+[2020-12-16 05:45:35.099] [remoteagent] [info] [127.0.0.1][1c493a52][ExtensionHostConnection] New connection established.
+[2020-12-16 05:45:35.198] [remoteagent] [info] [127.0.0.1][1c493a52][ExtensionHostConnection] <66982> Launched Extension Host Process.
+[2020-12-16 05:45:35.708] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-16 05:45:35.716] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-16 05:45:40.321] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-16 05:46:07.961] [remoteagent] [info] [127.0.0.1][dfb19038][ManagementConnection] The client has reconnected.
+[2020-12-16 05:46:07.994] [remoteagent] [info] [127.0.0.1][1c493a52][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 05:46:44.367] [remoteagent] [info] [127.0.0.1][dfb19038][ManagementConnection] The client has reconnected.
+[2020-12-16 05:47:17.041] [remoteagent] [info] [127.0.0.1][dfb19038][ManagementConnection] The client has reconnected.
+[2020-12-16 05:47:49.886] [remoteagent] [info] [127.0.0.1][1c493a52][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 05:48:01.213] [remoteagent] [info] [127.0.0.1][dfb19038][ManagementConnection] The client has reconnected.
+[2020-12-16 05:48:16.003] [remoteagent] [info] [127.0.0.1][1c493a52][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 05:56:45.972] [remoteagent] [info] [127.0.0.1][dfb19038][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 05:56:46.989] [remoteagent] [info] [127.0.0.1][1c493a52][ExtensionHostConnection] <66982> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 05:56:46.989] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-16 05:58:08.891] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-16 05:58:08.891] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-16 05:58:11.751] [remoteagent] [info] [127.0.0.1][b215cafc][ManagementConnection] New connection established.
+[2020-12-16 05:58:12.031] [remoteagent] [info] [127.0.0.1][501031a0][ExtensionHostConnection] New connection established.
+[2020-12-16 05:58:12.034] [remoteagent] [info] [127.0.0.1][501031a0][ExtensionHostConnection] <68570> Launched Extension Host Process.
+[2020-12-16 05:58:12.353] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-16 05:58:12.359] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-16 05:58:15.493] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-16 05:58:52.800] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-16 05:58:52.800] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-16 05:58:56.780] [remoteagent] [info] [127.0.0.1][b215cafc][ManagementConnection] The client has reconnected.
+[2020-12-16 05:59:26.050] [remoteagent] [info] [127.0.0.1][501031a0][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 05:59:27.635] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-16 05:59:27.636] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-16 05:59:30.354] [remoteagent] [info] [127.0.0.1][b215cafc][ManagementConnection] The client has reconnected.
+[2020-12-16 05:59:52.249] [remoteagent] [info] [127.0.0.1][501031a0][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 06:00:44.536] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-16 06:00:44.536] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-16 06:00:46.190] [remoteagent] [info] [127.0.0.1][b215cafc][ManagementConnection] The client has reconnected.
+[2020-12-16 06:00:46.640] [remoteagent] [info] [127.0.0.1][501031a0][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 06:01:15.981] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-16 06:01:15.981] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-16 06:01:17.990] [remoteagent] [info] [127.0.0.1][b215cafc][ManagementConnection] The client has reconnected.
+[2020-12-16 06:02:15.638] [remoteagent] [info] [127.0.0.1][501031a0][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 06:06:07.811] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-16 06:06:07.811] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-16 06:06:11.052] [remoteagent] [info] [127.0.0.1][b215cafc][ManagementConnection] The client has reconnected.
+[2020-12-16 06:06:48.163] [remoteagent] [info] [127.0.0.1][b215cafc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:06:49.181] [remoteagent] [info] [127.0.0.1][501031a0][ExtensionHostConnection] <68570> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:06:49.181] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-16 06:06:49.181] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-16 06:07:05.316] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-16 06:07:05.316] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-16 06:07:36.792] [remoteagent] [info] [127.0.0.1][0dfa18b2][ManagementConnection] New connection established.
+[2020-12-16 06:07:37.070] [remoteagent] [info] [127.0.0.1][b69ca383][ExtensionHostConnection] New connection established.
+[2020-12-16 06:07:37.073] [remoteagent] [info] [127.0.0.1][b69ca383][ExtensionHostConnection] <70267> Launched Extension Host Process.
+[2020-12-16 06:07:37.688] [remoteagent] [info] Listing 1 persistent terminals, 1 total terminals
+[2020-12-16 06:07:37.700] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-16 06:07:41.102] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-16 06:08:11.048] [remoteagent] [info] [127.0.0.1][0dfa18b2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:08:20.395] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-16 06:08:20.395] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-16 06:08:24.299] [remoteagent] [info] [127.0.0.1][96579eab][ManagementConnection] New connection established.
+[2020-12-16 06:08:24.304] [remoteagent] [info] [127.0.0.1][01ed4ece][ExtensionHostConnection] New connection established.
+[2020-12-16 06:08:24.308] [remoteagent] [info] [127.0.0.1][01ed4ece][ExtensionHostConnection] <70543> Launched Extension Host Process.
+[2020-12-16 06:08:24.916] [remoteagent] [info] Listing 2 persistent terminals, 2 total terminals
+[2020-12-16 06:08:24.931] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-16 06:08:28.374] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-16 06:08:51.981] [remoteagent] [info] [127.0.0.1][96579eab][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:09:22.617] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-16 06:09:22.617] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-16 06:09:24.087] [remoteagent] [info] [127.0.0.1][2690b9cb][ManagementConnection] New connection established.
+[2020-12-16 06:09:24.089] [remoteagent] [info] [127.0.0.1][320e4db9][ExtensionHostConnection] New connection established.
+[2020-12-16 06:09:24.093] [remoteagent] [info] [127.0.0.1][320e4db9][ExtensionHostConnection] <70799> Launched Extension Host Process.
+[2020-12-16 06:09:25.001] [remoteagent] [info] Listing 3 persistent terminals, 3 total terminals
+[2020-12-16 06:09:25.012] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-16 06:09:28.442] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-16 06:10:11.894] [remoteagent] [info] [127.0.0.1][2690b9cb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:10:19.433] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-16 06:10:19.433] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-16 06:10:20.848] [remoteagent] [info] [127.0.0.1][1c360532][ManagementConnection] New connection established.
+[2020-12-16 06:10:20.850] [remoteagent] [info] [127.0.0.1][f4f3b3d0][ExtensionHostConnection] New connection established.
+[2020-12-16 06:10:20.853] [remoteagent] [info] [127.0.0.1][f4f3b3d0][ExtensionHostConnection] <71179> Launched Extension Host Process.
+[2020-12-16 06:10:21.514] [remoteagent] [info] Listing 4 persistent terminals, 4 total terminals
+[2020-12-16 06:10:21.528] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-16 06:10:24.953] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-16 06:10:45.922] [remoteagent] [info] [127.0.0.1][1c360532][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:10:56.665] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-16 06:10:56.665] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-16 06:11:01.857] [remoteagent] [info] [127.0.0.1][1a544e47][ManagementConnection] New connection established.
+[2020-12-16 06:11:01.858] [remoteagent] [info] [127.0.0.1][88277135][ExtensionHostConnection] New connection established.
+[2020-12-16 06:11:01.862] [remoteagent] [info] [127.0.0.1][88277135][ExtensionHostConnection] <71428> Launched Extension Host Process.
+[2020-12-16 06:11:04.600] [remoteagent] [info] Listing 5 persistent terminals, 5 total terminals
+[2020-12-16 06:11:04.611] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-16 06:11:08.051] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-16 06:11:33.660] [remoteagent] [info] [127.0.0.1][1a544e47][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:11:42.116] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-16 06:11:42.116] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-16 06:11:43.569] [remoteagent] [info] [127.0.0.1][d2b6b147][ManagementConnection] New connection established.
+[2020-12-16 06:11:43.574] [remoteagent] [info] [127.0.0.1][28946852][ExtensionHostConnection] New connection established.
+[2020-12-16 06:11:43.578] [remoteagent] [info] [127.0.0.1][28946852][ExtensionHostConnection] <71748> Launched Extension Host Process.
+[2020-12-16 06:11:44.260] [remoteagent] [info] Listing 6 persistent terminals, 6 total terminals
+[2020-12-16 06:11:44.268] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-16 06:11:47.483] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-16 06:12:13.331] [remoteagent] [info] [127.0.0.1][d2b6b147][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:12:21.569] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-16 06:12:21.569] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-16 06:12:23.372] [remoteagent] [info] [127.0.0.1][e4e39ec9][ManagementConnection] New connection established.
+[2020-12-16 06:12:23.374] [remoteagent] [info] [127.0.0.1][37326068][ExtensionHostConnection] New connection established.
+[2020-12-16 06:12:23.377] [remoteagent] [info] [127.0.0.1][37326068][ExtensionHostConnection] <72041> Launched Extension Host Process.
+[2020-12-16 06:12:24.608] [remoteagent] [info] Listing 7 persistent terminals, 7 total terminals
+[2020-12-16 06:12:24.617] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-16 06:12:27.829] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-16 06:13:01.417] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-16 06:13:01.417] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-16 06:13:02.303] [remoteagent] [info] [127.0.0.1][e4e39ec9][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-12-16 06:13:05.498] [remoteagent] [info] [127.0.0.1][e4e39ec9][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2020-12-16 06:13:05.499] [remoteagent] [info] [127.0.0.1][a4ae4737][ManagementConnection] New connection established.
+[2020-12-16 06:13:05.500] [remoteagent] [info] [127.0.0.1][63a27b55][ExtensionHostConnection] New connection established.
+[2020-12-16 06:13:05.504] [remoteagent] [info] [127.0.0.1][63a27b55][ExtensionHostConnection] <72337> Launched Extension Host Process.
+[2020-12-16 06:13:07.667] [remoteagent] [info] Listing 7 persistent terminals, 7 total terminals
+[2020-12-16 06:13:07.675] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-16 06:13:08.135] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:13:08.136] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:13:08.136] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:13:08.136] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:13:08.136] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:13:08.136] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:13:08.136] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:13:10.886] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-16 06:13:24.303] [remoteagent] [info] [127.0.0.1][b69ca383][ExtensionHostConnection] <70267> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:13:24.303] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-16 06:13:41.742] [remoteagent] [info] [127.0.0.1][a4ae4737][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:14:25.097] [remoteagent] [info] [127.0.0.1][01ed4ece][ExtensionHostConnection] <70543> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:14:28.031] [remoteagent] [info] [127.0.0.1][0d3eeafb][ManagementConnection] New connection established.
+[2020-12-16 06:14:28.033] [remoteagent] [info] [127.0.0.1][8c676965][ExtensionHostConnection] New connection established.
+[2020-12-16 06:14:28.037] [remoteagent] [info] [127.0.0.1][8c676965][ExtensionHostConnection] <72988> Launched Extension Host Process.
+[2020-12-16 06:14:40.788] [remoteagent] [info] Listing 8 persistent terminals, 8 total terminals
+[2020-12-16 06:14:40.797] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-16 06:14:44.015] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-16 06:15:16.718] [remoteagent] [info] [127.0.0.1][0d3eeafb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:15:20.852] [remoteagent] [info] [127.0.0.1][320e4db9][ExtensionHostConnection] <70799> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:15:27.107] [remoteagent] [info] [127.0.0.1][791857d8][ManagementConnection] New connection established.
+[2020-12-16 06:15:27.108] [remoteagent] [info] [127.0.0.1][e7f3181c][ExtensionHostConnection] New connection established.
+[2020-12-16 06:15:27.113] [remoteagent] [info] [127.0.0.1][e7f3181c][ExtensionHostConnection] <73355> Launched Extension Host Process.
+[2020-12-16 06:15:27.755] [remoteagent] [info] Listing 9 persistent terminals, 9 total terminals
+[2020-12-16 06:15:27.764] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-16 06:15:30.940] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-16 06:16:02.869] [remoteagent] [info] [127.0.0.1][f4f3b3d0][ExtensionHostConnection] <71179> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:16:06.720] [remoteagent] [info] [127.0.0.1][791857d8][ManagementConnection] The client has reconnected.
+[2020-12-16 06:16:06.727] [remoteagent] [info] [127.0.0.1][e7f3181c][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 06:16:43.572] [remoteagent] [info] [127.0.0.1][88277135][ExtensionHostConnection] <71428> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:16:51.963] [remoteagent] [info] [127.0.0.1][791857d8][ManagementConnection] The client has reconnected.
+[2020-12-16 06:16:51.973] [remoteagent] [info] [127.0.0.1][e7f3181c][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 06:17:23.380] [remoteagent] [info] [127.0.0.1][28946852][ExtensionHostConnection] <71748> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:18:05.498] [remoteagent] [info] [127.0.0.1][e4e39ec9][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2020-12-16 06:18:05.508] [remoteagent] [info] [127.0.0.1][37326068][ExtensionHostConnection] <72041> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:18:17.564] [remoteagent] [info] [127.0.0.1][791857d8][ManagementConnection] The client has reconnected.
+[2020-12-16 06:18:17.822] [remoteagent] [info] [127.0.0.1][e7f3181c][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 06:18:52.401] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:18:52.401] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:18:52.401] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:18:52.402] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:18:52.402] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:18:52.402] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:18:52.402] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:18:52.811] [remoteagent] [info] [127.0.0.1][791857d8][ManagementConnection] The client has reconnected.
+[2020-12-16 06:19:20.658] [remoteagent] [info] [127.0.0.1][e7f3181c][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 06:19:28.036] [remoteagent] [info] [127.0.0.1][63a27b55][ExtensionHostConnection] <72337> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:20:27.111] [remoteagent] [info] [127.0.0.1][8c676965][ExtensionHostConnection] <72988> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:20:35.398] [remoteagent] [info] [127.0.0.1][e7f3181c][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 06:28:51.448] [remoteagent] [info] [127.0.0.1][3da282fc][ManagementConnection] New connection established.
+[2020-12-16 06:28:51.765] [remoteagent] [info] [127.0.0.1][14c795a2][ExtensionHostConnection] New connection established.
+[2020-12-16 06:28:51.769] [remoteagent] [info] [127.0.0.1][14c795a2][ExtensionHostConnection] <75321> Launched Extension Host Process.
+[2020-12-16 06:28:52.058] [remoteagent] [info] Listing 9 persistent terminals, 9 total terminals
+[2020-12-16 06:29:32.850] [remoteagent] [info] [127.0.0.1][3da282fc][ManagementConnection] The client has reconnected.
+[2020-12-16 06:29:40.998] [remoteagent] [info] [127.0.0.1][14c795a2][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 06:30:16.649] [remoteagent] [info] [127.0.0.1][14c795a2][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 06:30:40.610] [remoteagent] [info] [127.0.0.1][3da282fc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:30:41.633] [remoteagent] [info] [127.0.0.1][14c795a2][ExtensionHostConnection] <75321> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:30:50.360] [remoteagent] [info] [127.0.0.1][ac278f1b][ManagementConnection] New connection established.
+[2020-12-16 06:30:50.361] [remoteagent] [info] [127.0.0.1][05243ecf][ExtensionHostConnection] New connection established.
+[2020-12-16 06:30:50.365] [remoteagent] [info] [127.0.0.1][05243ecf][ExtensionHostConnection] <75856> Launched Extension Host Process.
+[2020-12-16 06:30:52.070] [remoteagent] [info] Listing 9 persistent terminals, 9 total terminals
+[2020-12-16 06:30:52.083] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-16 06:30:52.566] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:30:52.566] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:30:52.567] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:30:52.567] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:30:52.568] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:30:52.568] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:30:52.568] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:30:52.569] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:30:52.569] [remoteagent] [info] Replaying 0 chars and 1 size events.
+[2020-12-16 06:30:55.302] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-16 06:31:25.208] [remoteagent] [info] [127.0.0.1][ac278f1b][ManagementConnection] The client has reconnected.
+[2020-12-16 06:31:25.217] [remoteagent] [info] [127.0.0.1][05243ecf][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 06:32:16.241] [remoteagent] [info] [127.0.0.1][05243ecf][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 06:38:27.139] [remoteagent] [info] [127.0.0.1][ac278f1b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:38:28.153] [remoteagent] [info] [127.0.0.1][05243ecf][ExtensionHostConnection] <75856> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:40:57.665] [remoteagent] [info] [127.0.0.1][bd51c64e][ManagementConnection] New connection established.
+[2020-12-16 06:40:59.975] [remoteagent] [info] [127.0.0.1][9452f19a][ExtensionHostConnection] New connection established.
+[2020-12-16 06:40:59.979] [remoteagent] [info] [127.0.0.1][9452f19a][ExtensionHostConnection] <77871> Launched Extension Host Process.
+[2020-12-16 06:41:00.257] [remoteagent] [info] Listing 9 persistent terminals, 9 total terminals
+[2020-12-16 06:41:24.782] [remoteagent] [info] [127.0.0.1][bd51c64e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:41:48.368] [remoteagent] [info] [127.0.0.1][5871aa34][ManagementConnection] New connection established.
+[2020-12-16 06:41:48.657] [remoteagent] [info] [127.0.0.1][c7bafeaf][ExtensionHostConnection] New connection established.
+[2020-12-16 06:41:48.661] [remoteagent] [info] [127.0.0.1][c7bafeaf][ExtensionHostConnection] <78101> Launched Extension Host Process.
+[2020-12-16 06:41:48.939] [remoteagent] [info] Listing 10 persistent terminals, 10 total terminals
+[2020-12-16 06:42:06.489] [remoteagent] [info] [127.0.0.1][5871aa34][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:42:24.922] [remoteagent] [info] [127.0.0.1][146a7257][ManagementConnection] New connection established.
+[2020-12-16 06:42:24.923] [remoteagent] [info] [127.0.0.1][36cf1ce4][ExtensionHostConnection] New connection established.
+[2020-12-16 06:42:24.927] [remoteagent] [info] [127.0.0.1][36cf1ce4][ExtensionHostConnection] <78310> Launched Extension Host Process.
+[2020-12-16 06:42:26.037] [remoteagent] [info] Listing 11 persistent terminals, 11 total terminals
+[2020-12-16 06:42:52.846] [remoteagent] [info] [127.0.0.1][146a7257][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:43:06.103] [remoteagent] [info] [127.0.0.1][db34ecb7][ManagementConnection] New connection established.
+[2020-12-16 06:43:06.104] [remoteagent] [info] [127.0.0.1][c3434d9b][ExtensionHostConnection] New connection established.
+[2020-12-16 06:43:06.108] [remoteagent] [info] [127.0.0.1][c3434d9b][ExtensionHostConnection] <78640> Launched Extension Host Process.
+[2020-12-16 06:43:07.613] [remoteagent] [info] Listing 12 persistent terminals, 12 total terminals
+[2020-12-16 06:43:32.924] [remoteagent] [info] [127.0.0.1][db34ecb7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:43:42.545] [remoteagent] [info] [127.0.0.1][467ab3c4][ManagementConnection] New connection established.
+[2020-12-16 06:43:42.546] [remoteagent] [info] [127.0.0.1][cb54b028][ExtensionHostConnection] New connection established.
+[2020-12-16 06:43:42.549] [remoteagent] [info] [127.0.0.1][cb54b028][ExtensionHostConnection] <78849> Launched Extension Host Process.
+[2020-12-16 06:43:43.147] [remoteagent] [info] Listing 13 persistent terminals, 13 total terminals
+[2020-12-16 06:44:00.963] [remoteagent] [info] [127.0.0.1][467ab3c4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:44:18.496] [remoteagent] [info] [127.0.0.1][791857d8][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-12-16 06:44:19.211] [remoteagent] [info] [127.0.0.1][791857d8][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2020-12-16 06:44:19.213] [remoteagent] [info] [127.0.0.1][416ea03f][ManagementConnection] New connection established.
+[2020-12-16 06:44:19.214] [remoteagent] [info] [127.0.0.1][baf2a829][ExtensionHostConnection] New connection established.
+[2020-12-16 06:44:19.218] [remoteagent] [info] [127.0.0.1][baf2a829][ExtensionHostConnection] <79081> Launched Extension Host Process.
+[2020-12-16 06:44:19.816] [remoteagent] [info] Listing 14 persistent terminals, 14 total terminals
+[2020-12-16 06:44:43.809] [remoteagent] [info] [127.0.0.1][416ea03f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:44:54.623] [remoteagent] [info] [127.0.0.1][f14a6853][ManagementConnection] New connection established.
+[2020-12-16 06:44:54.625] [remoteagent] [info] [127.0.0.1][d67ec1f0][ExtensionHostConnection] New connection established.
+[2020-12-16 06:44:54.630] [remoteagent] [info] [127.0.0.1][d67ec1f0][ExtensionHostConnection] <79326> Launched Extension Host Process.
+[2020-12-16 06:44:55.212] [remoteagent] [info] Listing 15 persistent terminals, 15 total terminals
+[2020-12-16 06:45:21.787] [remoteagent] [info] [127.0.0.1][f14a6853][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:45:42.244] [remoteagent] [info] [127.0.0.1][f185cd0c][ManagementConnection] New connection established.
+[2020-12-16 06:45:42.253] [remoteagent] [info] [127.0.0.1][7eae06d3][ExtensionHostConnection] New connection established.
+[2020-12-16 06:45:42.257] [remoteagent] [info] [127.0.0.1][7eae06d3][ExtensionHostConnection] <79677> Launched Extension Host Process.
+[2020-12-16 06:45:46.508] [remoteagent] [info] Listing 16 persistent terminals, 16 total terminals
+[2020-12-16 06:46:11.349] [remoteagent] [info] [127.0.0.1][f185cd0c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:46:22.398] [remoteagent] [info] [127.0.0.1][3378719e][ManagementConnection] New connection established.
+[2020-12-16 06:46:22.400] [remoteagent] [info] [127.0.0.1][32759f67][ExtensionHostConnection] New connection established.
+[2020-12-16 06:46:22.404] [remoteagent] [info] [127.0.0.1][32759f67][ExtensionHostConnection] <79987> Launched Extension Host Process.
+[2020-12-16 06:46:23.004] [remoteagent] [info] Listing 17 persistent terminals, 17 total terminals
+[2020-12-16 06:46:48.372] [remoteagent] [info] [127.0.0.1][9452f19a][ExtensionHostConnection] <77871> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:46:51.413] [remoteagent] [info] [127.0.0.1][3378719e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:47:13.397] [remoteagent] [info] [127.0.0.1][30610a31][ManagementConnection] New connection established.
+[2020-12-16 06:47:13.794] [remoteagent] [info] [127.0.0.1][0482a2ff][ExtensionHostConnection] New connection established.
+[2020-12-16 06:47:13.798] [remoteagent] [info] [127.0.0.1][0482a2ff][ExtensionHostConnection] <80422> Launched Extension Host Process.
+[2020-12-16 06:47:14.101] [remoteagent] [info] Listing 18 persistent terminals, 18 total terminals
+[2020-12-16 06:47:24.927] [remoteagent] [info] [127.0.0.1][c7bafeaf][ExtensionHostConnection] <78101> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:47:31.740] [remoteagent] [info] [127.0.0.1][30610a31][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:47:46.172] [remoteagent] [info] [127.0.0.1][a0baf3ab][ManagementConnection] New connection established.
+[2020-12-16 06:47:46.174] [remoteagent] [info] [127.0.0.1][d993c48a][ExtensionHostConnection] New connection established.
+[2020-12-16 06:47:46.178] [remoteagent] [info] [127.0.0.1][d993c48a][ExtensionHostConnection] <80694> Launched Extension Host Process.
+[2020-12-16 06:47:47.171] [remoteagent] [info] Listing 19 persistent terminals, 19 total terminals
+[2020-12-16 06:48:06.107] [remoteagent] [info] [127.0.0.1][36cf1ce4][ExtensionHostConnection] <78310> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:48:34.743] [remoteagent] [info] [127.0.0.1][a0baf3ab][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-12-16 06:48:42.549] [remoteagent] [info] [127.0.0.1][c3434d9b][ExtensionHostConnection] <78640> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:48:49.134] [remoteagent] [info] [127.0.0.1][a0baf3ab][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2020-12-16 06:48:49.134] [remoteagent] [info] [127.0.0.1][ce92ad4f][ManagementConnection] New connection established.
+[2020-12-16 06:48:49.136] [remoteagent] [info] [127.0.0.1][ba96bcfa][ExtensionHostConnection] New connection established.
+[2020-12-16 06:48:49.140] [remoteagent] [info] [127.0.0.1][ba96bcfa][ExtensionHostConnection] <81248> Launched Extension Host Process.
+[2020-12-16 06:48:49.711] [remoteagent] [info] Listing 19 persistent terminals, 19 total terminals
+[2020-12-16 06:48:57.852] [remoteagent] [info] [127.0.0.1][ce92ad4f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:49:19.212] [remoteagent] [info] [127.0.0.1][791857d8][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2020-12-16 06:49:19.219] [remoteagent] [info] [127.0.0.1][cb54b028][ExtensionHostConnection] <78849> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:49:20.229] [remoteagent] [info] [127.0.0.1][e7f3181c][ExtensionHostConnection] <73355> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:49:55.637] [remoteagent] [info] [127.0.0.1][baf2a829][ExtensionHostConnection] <79081> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:50:42.256] [remoteagent] [info] [127.0.0.1][d67ec1f0][ExtensionHostConnection] <79326> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:51:10.758] [remoteagent] [info] [127.0.0.1][c307bea3][ManagementConnection] New connection established.
+[2020-12-16 06:51:10.759] [remoteagent] [info] [127.0.0.1][3f748fc0][ExtensionHostConnection] New connection established.
+[2020-12-16 06:51:10.763] [remoteagent] [info] [127.0.0.1][3f748fc0][ExtensionHostConnection] <81619> Launched Extension Host Process.
+[2020-12-16 06:51:11.366] [remoteagent] [info] Listing 20 persistent terminals, 20 total terminals
+[2020-12-16 06:51:22.402] [remoteagent] [info] [127.0.0.1][7eae06d3][ExtensionHostConnection] <79677> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:51:53.233] [remoteagent] [info] [127.0.0.1][c307bea3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:52:13.404] [remoteagent] [info] [127.0.0.1][32759f67][ExtensionHostConnection] <79987> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:52:19.156] [remoteagent] [info] [127.0.0.1][fe906bdc][ManagementConnection] New connection established.
+[2020-12-16 06:52:19.156] [remoteagent] [info] [127.0.0.1][0d836ac7][ExtensionHostConnection] New connection established.
+[2020-12-16 06:52:19.160] [remoteagent] [info] [127.0.0.1][0d836ac7][ExtensionHostConnection] <81885> Launched Extension Host Process.
+[2020-12-16 06:52:19.723] [remoteagent] [info] Listing 21 persistent terminals, 21 total terminals
+[2020-12-16 06:52:39.998] [remoteagent] [info] [127.0.0.1][fe906bdc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:52:46.178] [remoteagent] [info] [127.0.0.1][0482a2ff][ExtensionHostConnection] <80422> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:52:53.879] [remoteagent] [info] [127.0.0.1][be54cf27][ManagementConnection] New connection established.
+[2020-12-16 06:52:53.880] [remoteagent] [info] [127.0.0.1][ea305132][ExtensionHostConnection] New connection established.
+[2020-12-16 06:52:53.884] [remoteagent] [info] [127.0.0.1][ea305132][ExtensionHostConnection] <82039> Launched Extension Host Process.
+[2020-12-16 06:52:54.484] [remoteagent] [info] Listing 22 persistent terminals, 22 total terminals
+[2020-12-16 06:53:14.453] [remoteagent] [info] [127.0.0.1][be54cf27][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:53:29.713] [remoteagent] [info] [127.0.0.1][734f4a58][ManagementConnection] New connection established.
+[2020-12-16 06:53:29.716] [remoteagent] [info] [127.0.0.1][1c67822b][ExtensionHostConnection] New connection established.
+[2020-12-16 06:53:29.720] [remoteagent] [info] [127.0.0.1][1c67822b][ExtensionHostConnection] <82193> Launched Extension Host Process.
+[2020-12-16 06:53:30.311] [remoteagent] [info] Listing 23 persistent terminals, 23 total terminals
+[2020-12-16 06:53:32.186] [remoteagent] [info] [127.0.0.1][734f4a58][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:53:48.301] [remoteagent] [info] [127.0.0.1][43b54018][ManagementConnection] New connection established.
+[2020-12-16 06:53:48.302] [remoteagent] [info] [127.0.0.1][ae99fd5d][ExtensionHostConnection] New connection established.
+[2020-12-16 06:53:48.306] [remoteagent] [info] [127.0.0.1][ae99fd5d][ExtensionHostConnection] <82347> Launched Extension Host Process.
+[2020-12-16 06:53:48.912] [remoteagent] [info] Listing 24 persistent terminals, 24 total terminals
+[2020-12-16 06:53:49.152] [remoteagent] [info] [127.0.0.1][a0baf3ab][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2020-12-16 06:53:49.158] [remoteagent] [info] [127.0.0.1][d993c48a][ExtensionHostConnection] <80694> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:54:40.348] [remoteagent] [info] [127.0.0.1][43b54018][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:54:41.361] [remoteagent] [info] [127.0.0.1][ae99fd5d][ExtensionHostConnection] <82347> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:55:42.665] [remoteagent] [info] [127.0.0.1][c4971a2d][ManagementConnection] New connection established.
+[2020-12-16 06:55:42.666] [remoteagent] [info] [127.0.0.1][b9d22f73][ExtensionHostConnection] New connection established.
+[2020-12-16 06:55:42.670] [remoteagent] [info] [127.0.0.1][b9d22f73][ExtensionHostConnection] <82777> Launched Extension Host Process.
+[2020-12-16 06:55:43.226] [remoteagent] [info] Listing 24 persistent terminals, 24 total terminals
+[2020-12-16 06:56:10.324] [remoteagent] [info] [127.0.0.1][c4971a2d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 06:56:10.762] [remoteagent] [info] [127.0.0.1][ba96bcfa][ExtensionHostConnection] <81248> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:56:11.366] [remoteagent] [info] The short reconnection grace time of 5m has expired, so the terminal process with pid -1 will be shutdown.
+[2020-12-16 06:56:11.366] [remoteagent] [info] The short reconnection grace time of 5m has expired, so the terminal process with pid -1 will be shutdown.
+[2020-12-16 06:56:11.366] [remoteagent] [info] The short reconnection grace time of 5m has expired, so the terminal process with pid -1 will be shutdown.
+[2020-12-16 06:56:11.367] [remoteagent] [info] The short reconnection grace time of 5m has expired, so the terminal process with pid -1 will be shutdown.
+[2020-12-16 06:56:11.367] [remoteagent] [info] The short reconnection grace time of 5m has expired, so the terminal process with pid -1 will be shutdown.
+[2020-12-16 06:56:11.367] [remoteagent] [info] The short reconnection grace time of 5m has expired, so the terminal process with pid -1 will be shutdown.
+[2020-12-16 06:56:11.367] [remoteagent] [info] The short reconnection grace time of 5m has expired, so the terminal process with pid -1 will be shutdown.
+[2020-12-16 06:56:11.367] [remoteagent] [info] The short reconnection grace time of 5m has expired, so the terminal process with pid -1 will be shutdown.
+[2020-12-16 06:56:11.367] [remoteagent] [info] The short reconnection grace time of 5m has expired, so the terminal process with pid -1 will be shutdown.
+[2020-12-16 06:57:19.164] [remoteagent] [info] [127.0.0.1][3f748fc0][ExtensionHostConnection] <81619> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:57:53.888] [remoteagent] [info] [127.0.0.1][0d836ac7][ExtensionHostConnection] <81885> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:58:29.720] [remoteagent] [info] [127.0.0.1][ea305132][ExtensionHostConnection] <82039> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:58:48.308] [remoteagent] [info] [127.0.0.1][1c67822b][ExtensionHostConnection] <82193> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 06:59:55.552] [remoteagent] [info] [127.0.0.1][1871b30e][ManagementConnection] New connection established.
+[2020-12-16 06:59:55.553] [remoteagent] [info] [127.0.0.1][32d410ef][ExtensionHostConnection] New connection established.
+[2020-12-16 06:59:55.556] [remoteagent] [info] [127.0.0.1][32d410ef][ExtensionHostConnection] <83039> Launched Extension Host Process.
+[2020-12-16 06:59:56.110] [remoteagent] [info] Listing 16 persistent terminals, 16 total terminals
+[2020-12-16 07:01:04.555] [remoteagent] [info] [127.0.0.1][1871b30e][ManagementConnection] The client has reconnected.
+[2020-12-16 07:01:04.557] [remoteagent] [info] [127.0.0.1][32d410ef][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 07:01:12.183] [remoteagent] [info] [127.0.0.1][1871b30e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 07:01:13.214] [remoteagent] [info] [127.0.0.1][32d410ef][ExtensionHostConnection] <83039> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 07:01:44.520] [remoteagent] [info] [127.0.0.1][2ed0d3bb][ManagementConnection] New connection established.
+[2020-12-16 07:01:44.521] [remoteagent] [info] [127.0.0.1][ff6477cb][ExtensionHostConnection] New connection established.
+[2020-12-16 07:01:44.525] [remoteagent] [info] [127.0.0.1][ff6477cb][ExtensionHostConnection] <83452> Launched Extension Host Process.
+[2020-12-16 07:01:45.086] [remoteagent] [info] Listing 16 persistent terminals, 16 total terminals
+[2020-12-16 07:01:45.090] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-16 07:01:49.668] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-16 07:04:55.556] [remoteagent] [info] [127.0.0.1][b9d22f73][ExtensionHostConnection] <82777> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 07:06:08.164] [remoteagent] [info] [127.0.0.1][2ed0d3bb][ManagementConnection] The client has reconnected.
+[2020-12-16 07:06:08.165] [remoteagent] [info] [127.0.0.1][ff6477cb][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 07:54:13.419] [remoteagent] [info] [127.0.0.1][2ed0d3bb][ManagementConnection] The client has reconnected.
+[2020-12-16 07:54:13.420] [remoteagent] [info] [127.0.0.1][ff6477cb][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 09:02:38.350] [remoteagent] [info] [127.0.0.1][2ed0d3bb][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-12-16 12:02:32.257] [remoteagent] [info] [127.0.0.1][ff6477cb][ExtensionHostConnection] <83452> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 12:02:32.257] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-16 12:02:38.351] [remoteagent] [info] [127.0.0.1][2ed0d3bb][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2020-12-16 12:07:32.259] [remoteagent] [info] Last EH closed, shutting down
